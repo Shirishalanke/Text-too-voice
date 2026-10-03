@@ -65,6 +65,4 @@ This project can be useful for:
 Developed as a Python + Streamlit Text-to-Speech project.
 
 If you like this project, consider giving the repository a ⭐ Star!
-│
-├── app.py
-├─
+
